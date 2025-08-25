@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yusuf Yavuzyiğit'
 
 theme = "quint"
+summaryLength = 20
